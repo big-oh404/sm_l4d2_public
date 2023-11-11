@@ -4,6 +4,6 @@ Players can report violators while admins offline. <br />Reporting directly to d
 Cooldown on reporting: 15 minutes<br /><br />
 Default reasons: "Cheater", "Mic Spam", "Abusive", "Disrespect", "Spray", "Breaking Sever Rules", "Other"<br /><br />
 To-Do: catch the reason from the chat<br />
-Tested and works well on: L4D2
+Tested and works well on: L4D2, compatible with SM11 and below.
 <br /><br />
 Feel free to use! :)
