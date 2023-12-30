@@ -1,9 +1,11 @@
-## Simple Reporter
+## Lef4Public
 
-Players can report violators while admins offline. Reporting directly to database and on-server logs: reporter's steamID and violator's steamID+IP+date+reason.
-Cooldown on reporting: 15 minutes
-Default reasons: "Cheater", "Mic Spam", "Abusive", "Disrespect", "Spray", "Breaking Sever Rules", "Other"
-To-Do: catch the reason from the chat
-Tested and works well on: L4D2
+Some useful small L4D2 sourcemod plugins to use.
 
-Feel free to use
+l4d2_oh_deathcheck - counting alive survivors on VS8+ servers
+l4d2_oh_rep - game violators will be punished!
+l4d2_oh_VSForceTanks - forcing tank spawn on map 1 of VS rounds and 100% chance on all maps
+l4d2_oh_voice - voice announcer who speaks for 4+ VS servers. VoiceHook extension required
+l4d2_oh_vampire - survivors get bonus HP for long-distance and headshot kills
+
+Feel free to use and/or contribute :)

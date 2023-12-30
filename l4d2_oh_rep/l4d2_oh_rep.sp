@@ -10,7 +10,7 @@ public Plugin:myinfo = {
 	author = "oh",
 	description = "Bad players will be banned!",
 	version = PLUGIN_VERSION,
-	url = "https://github.com/ohyeah04/gameviolators-reporter"
+	url = "https://github.com/ohyeah04/"
 };
 
 Database g_hDatabase = null;
